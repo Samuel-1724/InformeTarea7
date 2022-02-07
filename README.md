@@ -41,3 +41,9 @@ Un inductor, también llamado bobina, estrangulador o reactor, es un pasivo de d
 
 Se denomina transformador a un elemento eléctrico que permite aumentar o disminuir la tensión en un circuito eléctrico de corriente alterna, manteniendo la potencia.
 
+[![TRANSFORMADOR.png](https://i.postimg.cc/FK43065w/TRANSFORMADOR.png)](https://postimg.cc/TKtK6CPc)
+
+**3.2.2. Tipos de Transformadores**
+
+[![TIPOS-DE-TRANSFORMADORES.png](https://i.postimg.cc/5Np02NfH/TIPOS-DE-TRANSFORMADORES.png)](https://postimg.cc/LnYRySYR)
+
